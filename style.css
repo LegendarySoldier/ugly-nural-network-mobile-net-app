@@ -1,0 +1,66 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: linear-gradient(to right, #fc00ff, #00FFFF);
+}
+
+.header_div{
+background: white;
+    color:black ;
+    border: 3p solid white;
+    border-radius: 20px;
+    width: 600px;
+    text-align: center;
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+.main_div label{
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+#camera{
+    border:  2px solid ;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px #00FFFF;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background: white;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: #6c757d;
+    line-height: 3;
+    text-align: center;
+}
